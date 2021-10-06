@@ -6,3 +6,4 @@ This project was a Milestone Project from the "Zero to Mastery Tensorflow" cours
 
 ## Methods
 
+Different methods have been used from the baseline (Naive Bayes) to the final model (A triple model that handles token, character, and positional embedding) to see what works or not, to reach 82% accuracy
